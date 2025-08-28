@@ -8,7 +8,7 @@ Hi, I’m **Anirudh** — a passionate programmer and problem solver who loves t
 - 💬 Ask me about **data structures, algorithms, and competitive coding**.  
 - 📫 How to reach me: *(Add your email or LinkedIn here)*  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I believe **consistent practice beats sudden bursts of effort** — coding is my daily habit!  
+- ⚡ Fun fact: I believe **consistent practice beats sudden bursts of effort**. Coding is my daily habit!  
 
 ---
 
