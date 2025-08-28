@@ -15,7 +15,7 @@ Hi, I’m **Anirudh**. I'm a passionate programmer and problem solver who loves 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-anirudh-vadrevu) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
+
 
 
 # 💻 Tech Stack:
