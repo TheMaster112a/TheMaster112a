@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m **Anirudh** — a passionate programmer and problem solver who loves turning ideas into code.  
+Hi, I’m **Anirudh**. I'm a passionate programmer and problem solver who loves turning ideas into code.  
 
 - 🔭 I’m currently working on strengthening my **problem-solving skills** through daily practice.  
 - 🌱 I’m currently learning **AI, Machine Learning**, and improving my **PostgreSQL** skills (recently completed the LeetCode SQL 50 challenge 🎉).  
